@@ -1,0 +1,33 @@
+{
+  "id": "ba8fd662-c497-4f14-abed-9441f0c2ddfa",
+  "name": "X509 Certificate Management",
+  "publisher": "Advania",
+  "version": "1.0.0.0",
+  "brief": "X509 Certificate Management",
+  "description": "X509 Certificate Management object to handle Certificates",
+  "privacyStatement":  "https://go.microsoft.com/fwlink/?linkid=724009",
+  "EULA":  "https://go.microsoft.com/fwlink/?linkid=2009120",
+  "help":  "https://go.microsoft.com/fwlink/?linkid=2103698",
+  "url":  "https://go.microsoft.com/fwlink/?linkid=724011",
+  "logo":  "./logo/ExtensionLogo.png",  
+  "target": "OnPrem",
+  "dependencies": [
+    { 
+      "id": "c1335042-3002-4257-bf8a-75c898ccb1b8",
+      "name": "Application",
+      "publisher": "Microsoft",
+      "version": "16.0.0.0"            
+    } 
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",  
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://X509CertificateMgt.com/help/",
+  "showMyCode": true,
+  "runtime": "5.0"
+}
